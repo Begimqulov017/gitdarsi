@@ -1,0 +1,14 @@
+div{
+    width:100%;
+    height:300px;
+    background-color:aqua;
+}
+h1{
+    font-family:verdana;
+    font-size:25px;
+}
+p{
+    font-family:monospace;
+    font-size:18px;
+    color:gold;
+}
